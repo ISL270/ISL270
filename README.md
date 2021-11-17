@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Eslam.ashrafff@yahoo.com**
 
-- 📄 My Resume [**EslamAshrafSE.pdf**](https://github.com/ISL270/ISL270/files/7554846/EslamAshraf.pdf)
+- 📄 Know about my experiences [**MyResume**](https://github.com/ISL270/ISL270/files/7554846/EslamAshraf.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
