@@ -12,9 +12,10 @@
 
 - 🌱 I’m currently learning [**Flutter**](https://flutter.dev/)
 
-- 📫 How to reach me **Eslam.ashrafff@yahoo.com**
+- 📫 How to reach me **SE.eslam.ashraf@gmail.com**
 
-- 📄 Know about my experiences [**MyResume**](https://github.com/ISL270/ISL270/files/7620802/EslamAshrafSE.pdf)
+
+- 📄 Know about my experiences [**MyResume**](https://github.com/ISL270/ISL270/files/7789071/EslamAshrafSE.pdf)
 
 
 
