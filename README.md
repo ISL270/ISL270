@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Eslam Ashraf   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></h2> 
+<h2 align="center">Hi, I'm Eslam Ashraf <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40"/></h2> 
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
