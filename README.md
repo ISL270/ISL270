@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on [**Streetwear E-commerce Flutter app**](https://github.com/ISL270/Streetwear-Ecommerce-app)
 
-- 🌱 I’m currently learning [**Flutter**](https://flutter.dev/)
-
 - 📫 How to reach me **SE.eslam.ashraf@gmail.com**
 
 - 📄 Know about my experiences [**MyResume**](https://github.com/ISL270/ISL270/files/8002477/EslamAshrafSE.pdf)
