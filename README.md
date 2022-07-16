@@ -8,7 +8,7 @@
   <a><img src="https://komarev.com/ghpvc/?username=isl270"/></a>
   </p>
 
-- 🔭 I’m currently working on [**Flutter e-commerce app**](https://github.com/ISL270/Flutter-E-commerce-App)
+- 🔭 I’m currently working on [**Streetwear E-commerce Flutter app**](https://github.com/ISL270/Streetwear-Ecommerce-app)
 
 - 🌱 I’m currently learning [**Flutter**](https://flutter.dev/)
 
